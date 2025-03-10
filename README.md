@@ -11,9 +11,9 @@ Master degree project @ JMU
 
 | Reviewer | Overall Rating (100) | Agree to Defense | Recommend for Outstanding Paper Competition |
 | -------- | -------------------- | ---------------- | ------------------------------------------- |
-|   # 1    |  | A (95)            | Yes              | Yes                                         |
-|   # 2    |  | A (90)            | Yes              | Yes                                         |
-|   # 3    |  | A (90)            | Yes              | Yes                                         |                
+|   # 1    |  A (95)            | Yes              | Yes                                         |
+|   # 2    |  A (90)            | Yes              | Yes                                         |
+|   # 3    |  A (90)            | Yes              | Yes                                         |                
 
 ## Defense Results                                                 
 
